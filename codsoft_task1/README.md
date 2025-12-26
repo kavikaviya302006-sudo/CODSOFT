@@ -31,4 +31,5 @@ Enter new task: Complete Python assignment
 Task added successfully!
 ## Internship Task
 Python Internship - Task 1.
+
 To-Do List Application
