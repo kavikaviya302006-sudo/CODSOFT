@@ -11,7 +11,7 @@ It allows users to manage daily tasks by adding, viewing, updating, deleting, an
 * Clear all tasks at once
 * Exit the application safely
 ## Technologies Used
-Python 
+Python
 ## How to Run
 1. Make sure Python is installed on your system
 Check using:
