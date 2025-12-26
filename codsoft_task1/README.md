@@ -1,4 +1,4 @@
-# To-Do List
+# Task1: To-Do List
 ## Description
 This is a simple command-line To-Do List application built using Python.
 
@@ -26,10 +26,9 @@ python --version.
 4. Delete Task
 5. Clear All Tasks
 6. Exit
-Enter your choice (1-6): 1
-Enter new task: Complete Python assignment
-Task added successfully!
-## Internship Task
-Python Internship - Task 1.
 
-To-Do List Application
+Enter your choice (1-6): 1
+
+Enter new task: Complete Python assignment
+
+Task added successfully!
