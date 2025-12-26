@@ -11,9 +11,7 @@ Option to include:
 * Input validation and error handling
 ## Technologies Used
 * Python 
-* Built-in modules:
-* random
-* string
+* Built-in modules: 1. random 2. string
 ## How to Run
 1. Ensure Python is installed
 2. Clone the repository or download the file.
