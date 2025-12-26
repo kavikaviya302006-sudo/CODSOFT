@@ -33,8 +33,10 @@ python-internship-projects/
 | **Task 4**   | Rock-Paper-Scissors Game | An interactive game where the user plays against the computer with score tracking and replay options.                                                     | This project enhanced logical thinking and implementation of real-time game rules using conditionals and loops.             |
 | **Task 5**   | Contact Book Application | A contact management system to store, search, update, and delete contact details using dictionaries.                                                      | This project provided hands-on experience with dictionaries and CRUD operations in Python.                                  |
 
+## Internship Details
+* Internship Provider: CODSOFT
+* Domain: Python Programming
+* Language Used: Python
 ## Author
 
-Kaviya
-
-Python Programming Internship
+KaviyaThangamani
